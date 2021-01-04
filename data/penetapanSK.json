@@ -1,0 +1,51 @@
+[
+    {
+        "Nip" : "198609262015051001",
+        "nama" : "Alan Hadi",
+        "jenisPemberhentian" : "Batas Usia Pensiun",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Lengkap"
+    },
+    {
+        "Nip" : "198609262015051002",
+        "nama" : "Azis Pasha",
+        "jenisPemberhentian" : "Batas Usia Pensiun",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Lengkap"
+    },
+    {
+        "Nip" : "198609262015051003",
+        "nama" : "Bimo Suryo",
+        "jenisPemberhentian" : "Kebijakan Pemerintah",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Tidak Lengkap"
+    },
+    {
+        "Nip" : "198609262015051004",
+        "nama" : "Raka Pratama",
+        "jenisPemberhentian" : "Meninggal",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Tidak Lengkap"
+    },
+    {
+        "Nip" : "198609262015051005",
+        "nama" : "Figa Rizfa",
+        "jenisPemberhentian" : "Batas Usia Pensiun",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Lengkap"
+    },
+    {
+        "Nip" : "198609262015051011",
+        "nama" : "Ghifari Prameswari",
+        "jenisPemberhentian" : "Batas Usia Pensiun",
+        "tglPengusulan" : "22/08/2020",
+        "statusUsulan" : "Tidak Lengkap"
+    },
+    {
+        "Nip" : "198609262015051012",
+        "nama" : "Guruh Ajinugroho",
+        "jenisPemberhentian" : "Kebijakan Pemerintah",
+        "tglPengusulan" : "11/08/2020",
+        "statusUsulan" : "Lengkap"
+    }
+]

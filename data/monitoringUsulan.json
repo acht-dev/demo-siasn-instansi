@@ -1,0 +1,50 @@
+[
+    {
+        "NoSU" : "198609262015051001",
+        "jenisPeremajaan" : "Kesehatan",
+        "nip" : "197003191997031001",
+        "nama" : "Alan Hadi",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Terkirim"
+    },
+    {
+        "NoSU" : "198609262015051002",
+        "jenisPeremajaan" : "PMK",
+        "nip" : "197003191997031002",
+        "nama" : "Azis Pasha",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Terkirim"
+    },
+    {
+        "NoSU" : "198609262015051003",
+        "jenisPeremajaan" : "LHKPN",
+        "nip" : "197003191997031003",
+        "nama" : "Bimo Suryo",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+    {
+        "NoSU" : "198609262015051004",
+        "jenisPeremajaan" : "CLTN",
+        "nip" : "197003191997031004",
+        "nama" : "Raka Pratama",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+    {
+        "NoSU" : "198609262015051005",
+        "jenisPeremajaan" : "Profesi",
+        "nip" : "197003191997031005",
+        "nama" : "Figa Rizfa",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSU" : "198609262015051011",
+        "jenisPeremajaan" : "Golongan/KP",
+        "nip" : "197003191997031006",
+        "nama" : "Ghifari Prameswari",
+        "tglPengusulan" : "22/08/2020",
+        "statusUsulan" : "On Progress"
+    }
+]

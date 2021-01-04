@@ -1,0 +1,66 @@
+[
+    {
+        "NoSK" : "198609262015051001",
+        "jenisPemberhentian" : "Batas Usia Pensiun",
+        "nip" : "197003191997031001",
+        "nama" : "Alan Hadi",
+        "tglPenetapanSK" : "01/08/2020",
+        "statusUsulan" : "Terkirim"
+    },
+    {
+        "NoSK" : "198609262015051002",
+        "jenisPemberhentian" : "Batas Usia Pensiun",
+        "nip" : "197003191997031002",
+        "nama" : "I Wayan Krishna",
+        "tglPenetapanSK" : "01/08/2020",
+        "statusUsulan" : "Terkirim"
+    },
+    {
+        "NoSK" : "198609262015051003",
+        "jenisPemberhentian" : "Kebijakan Pemerintah",
+        "nip" : "197003191997031003",
+        "nama" : "Bimo Suryo",
+        "tglPenetapanSK" : "01/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+    {
+        "NoSK" : "198609262015051004",
+        "jenisPemberhentian" : "Meninggal",
+        "nip" : "197003191997031004",
+        "nama" : "Raka Pratama",
+        "tglPenetapanSK" : "01/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+    {
+        "NoSK" : "198609262015051005",
+        "jenisPemberhentian" : "Batas Usia Pensiun",
+        "nip" : "197003191997031005",
+        "nama" : "Figa Rizfa",
+        "tglPenetapanSK" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSK" : "178609262015051208",
+        "jenisPemberhentian" : "Batas Usia Pensiun",
+        "nip" : "178609262015051208",
+        "nama" : "Della",
+        "tglPenetapanSK" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSK" : "138609262015051122",
+        "jenisPemberhentian" : "Kebijakan Pemerintah",
+        "nip" : "138609262015051122",
+        "nama" : "Rio",
+        "tglPenetapanSK" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSK" : "198609262015051011",
+        "jenisPemberhentian" : "Batas Usia Pensiun",
+        "nip" : "197003191997031006",
+        "nama" : "Ghifari Prameswari",
+        "tglPenetapanSK" : "22/08/2020",
+        "statusUsulan" : "On Progress"
+    }
+]

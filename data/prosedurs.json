@@ -1,0 +1,186 @@
+{
+  "prosedurRowOne": [
+    {
+      "id": 1,
+      "src": "/img/hijau-icon/01-GOLONGAN.png",
+      "name": "Golongan/KP",
+      "isCheck": false
+    },
+    {
+      "id": 2,
+      "src": "/img/hijau-icon/02-PENDIDIKAN.png",
+      "name": "Pendidikan",
+      "isCheck": false
+    },
+    {
+      "id": 3,
+      "src": "/img/hijau-icon/03-PMK.png",
+      "name": "PMK",
+      "isCheck": false
+    },
+    {
+      "id": 4,
+      "src": "/img/hijau-icon/04-P-INSTANSI.png",
+      "name": "P. Instansi",
+      "isCheck": false
+    },
+    {
+      "id": 5,
+      "src": "/img/hijau-icon/05-PROFESI.png",
+      "name": "Profesi",
+      "isCheck": false
+    },
+    {
+      "id": 6,
+      "src": "/img/hijau-icon/06-KEDUDUKAN HUKUM.png",
+      "name": "Kedudukan Hukum",
+      "isCheck": false
+    },
+    {
+      "id": 7,
+      "src": "/icon-bkn/data-pribadi.png",
+      "name": "Data Pribadi",
+      "isCheck": false
+    },
+    {
+      "id": 8,
+      "src": "/icon-bkn/jabatan.png",
+      "name": "Jabatan",
+      "isCheck": false
+    },
+    {
+      "id": 9,
+      "src": "/icon-bkn/diklat.png",
+      "name": "Diklat",
+      "isCheck": false
+    }
+  ],
+  "prosedurRowTwo":[
+{
+      "id": 10,
+      "src": "/icon-bkn/keluarga.png",
+      "name": "Keluarga",
+      "isCheck": false
+    },
+{
+      "id": 11,
+      "src": "/icon-bkn/angka-kredit.png",
+      "name": "Angka Kredit",
+      "isCheck": false
+    },
+{
+      "id": 12,
+      "src": "/icon-bkn/huk-disiplin.png",
+      "name": "Huk. Disiplin",
+      "isCheck": false
+    },
+{
+      "id": 13,
+      "src": "/icon-bkn/kesehatan.png",
+      "name": "Kesehatan",
+      "isCheck": false
+    },
+{
+      "id": 14,
+      "src": "/icon-bkn/ctln.png",
+      "name": "CTLN",
+      "isCheck": false
+    },
+{
+      "id": 15,
+      "src": "/icon-bkn/cpns-pns.png",
+      "name": "CPNS/PNS",
+      "isCheck": false
+    },
+{
+      "id": 16,
+      "src": "/icon-bkn/skp.png",
+      "name": "SKP",
+      "isCheck": false
+    },
+{
+      "id": 17,
+      "src": "/icon-bkn/penghargaan.png",
+      "name": "Penghargaan",
+      "isCheck": false
+    },
+{
+      "id": 18,
+      "src": "/icon-bkn/lhkpn.png",
+      "name": "LHKPN",
+      "isCheck": false
+    }
+  ],"prosedurRowThree": [
+    {
+      "id": 19,
+      "src": "/icon-bkn/lhkasn.png",
+      "name": "LHKASN",
+      "isCheck": false
+    },
+    {
+      "id": 20,
+      "src": "/icon-bkn/organisasi.png",
+      "name": "Organisasi",
+      "isCheck": false
+    },
+    {
+      "id": 21,
+      "src": "/icon-bkn/kepanitian-tim.png",
+      "name": "Kepanitian/Tim",
+      "isCheck": false
+    },
+    {
+      "id": 22,
+      "src": "/icon-bkn/kgb.png",
+      "name": "KGB",
+      "isCheck": false
+    },
+    {
+      "id": 23,
+      "src": "/icon-bkn/prestasi.png",
+      "name": "Prestasi",
+      "isCheck": false
+    },
+    {
+      "id": 24,
+      "src": "/icon-bkn/potensi.png",
+      "name": "Potensi",
+      "isCheck": false
+    },
+    {
+      "id": 25,
+      "src": "/icon-bkn/tunjangan-kinerja.png",
+      "name": "Tunjangan Kinerja",
+      "isCheck": false
+    },
+    {
+      "id": 26,
+      "src": "/icon-bkn/tunjangan-kemahalan.png",
+      "name": "Tunjangan Kemahalan",
+      "isCheck": false
+    },
+    {
+      "id": 27,
+      "src": "/icon-bkn/kontrak-pppk.png",
+      "name": "Kontrak PPPK & Non-ASN",
+      "isCheck": false
+    }
+  ],
+  "dataUtama":[
+    {
+      "id": 1,
+      "src" : "/img/hijau-icon/00-DATA PRIBADI.png",
+      "name" : "Data Pribadi"
+    },
+    {
+      "id": 2,
+      "src" : "/img/hijau-icon/00-POSISI JABATN.png",
+      "name" : "Posisi & Jabatan"
+    },
+    {
+      "id": 3,
+      "src" : "/img/hijau-icon/00-DATALAINNYA.png",
+      "name" : "Data Lainnya"
+    }
+  ]
+}

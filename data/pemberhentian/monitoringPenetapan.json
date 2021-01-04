@@ -1,0 +1,50 @@
+[
+    {
+        "NoSU" : "198609262015051001",
+        "jenisProsedur" : "Batas Usia Pensiun",
+        "nama" : "Alan Hadi",
+        "tglPengusulan" : "01/08/2020",
+        "tglPenetapan" : "11/02/2020",
+        "statusUsulan" : "Diterima"
+    },
+    {
+        "NoSU" : "198609262015051002",
+        "jenisProsedur" : "Batas Usia Pensiun",
+        "nama" : "I Wayan Krishna",
+        "tglPengusulan" : "01/08/2020",
+        "tglPenetapan" : "02/07/2020",
+        "statusUsulan" : "Diterima"
+    },
+    {
+        "NoSU" : "198609262015051003",
+        "jenisProsedur" : "Kebijakan Pemerintah",
+        "nama" : "Bimo Suryo",
+        "tglPengusulan" : "01/08/2020",
+        "tglPenetapan" : "04/10/2020",
+        "statusUsulan" : "Diterima"
+    },
+    {
+        "NoSU" : "198609262015051004",
+        "jenisProsedur" : "Batas Usia Pensiun",
+        "nama" : "Raka Pratama",
+        "tglPengusulan" : "01/08/2020",
+        "tglPenetapan" : "06/12/2020",
+        "statusUsulan" : "Diterima"
+    },
+    {
+        "NoSU" : "198609262015051005",
+        "jenisProsedur" : "Kebijakan Pemerintah",
+        "nama" : "Figa Rizfa",
+        "tglPengusulan" : "01/08/2020",
+        "tglPenetapan" : "09/11/2020",
+        "statusUsulan" : "Diterima"
+    },
+    {
+        "NoSU" : "198609262015051011",
+        "jenisProsedur" : "Batas Usia Pensiun",
+        "nama" : "Ghifari Prameswari",
+        "tglPengusulan" : "22/08/2020",
+        "tglPenetapan" : "22/11/2020",
+        "statusUsulan" : "Diterima"
+    }
+]

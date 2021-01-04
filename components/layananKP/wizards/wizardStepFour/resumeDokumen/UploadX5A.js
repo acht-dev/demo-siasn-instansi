@@ -1,0 +1,270 @@
+import "bootstrap/dist/css/bootstrap.min.css";
+import {
+  Form,
+  Tabs,
+  Tab,
+  Table,
+  InputGroup,
+  Checkbox,
+  Row,
+  Col,
+  Button,
+  FormControl,
+} from "react-bootstrap";
+import styles from "../../../../../styles/Home.module.css";
+import React, { useState } from "react";
+import "font-awesome/css/font-awesome.min.css";
+import { FaTimesCircle } from "react-icons/fa";
+import { FaCheckCircle } from "react-icons/fa";
+
+function UploadX5A() {
+  return (
+    <main className={styles.main}>
+      <section className={styles.container}>
+        <div className={styles.components}>
+          {/* Step 3-2 */}
+
+          {/* Judul 1 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>Dok Realisasi SKP 1 Tahun Terakhir*</Col>
+            <Col className="paddingRD2">SK KP Perorangan/SK Petikan Terakhir*</Col>
+          </Form.Row>
+
+          {/* Input 1 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+            <Col md={5}>
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+          </Form.Row>
+
+          {/* Judul 2 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>Dok SK Penetepan Prestasi Kerja Luar Biasa Ditandatangani PPK*</Col>
+            <Col className="paddingRD2"><br />Pas Foto Terbaru*</Col>
+          </Form.Row>
+
+          {/* Input 2 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+            <Col md={5} className="">
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+          </Form.Row>
+
+          {/* Judul 4 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>Bukti Prestasi*</Col>
+            <Col className="paddingRD2">SK Jabatan (terakhir)*</Col>
+          </Form.Row>
+
+          {/* Input 4 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+            <Col md={5} className="">
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+          </Form.Row>
+
+          {/* Judul 5 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>Dok Surat Pelantikan (dalam Jabatan Terakhir)*</Col>
+            <Col className="paddingRD2">Berita Acara Sumpah/Janji/Pelantikan Jabatan</Col>
+          </Form.Row>
+
+          {/* Input 5 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+            <Col md={5} className="">
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+          </Form.Row>
+
+          {/* Judul 6 */}
+          <Form.Row className="Step-3">
+            <Col md={5}><br />SPMT (Surat Perintah Melaksanakan Tugas)</Col>
+            <Col md={5} className="paddingRD2">
+              Surat Perintah Pelaksana Tugas (plt) dari Pejabat Pembina Kepegawaian
+            </Col>
+          </Form.Row>
+
+          {/* Input 6 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+            <Col md={5} className="">
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md={1}><FaCheckCircle
+              size='1rem'
+              color='green' />
+            </Col>
+          </Form.Row>
+
+          {/* Judul 7 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>CV Terbaru*</Col>
+          </Form.Row>
+
+          {/* Input 7 */}
+          <Form.Row className="Step-3">
+            <Col md={5}>
+              <a href="../../../../../file/SK_PERTEK.pdf" target="_blank">
+                <div className="input-group">
+                  <Form.Control type="text" className="custominput" defaultValue="dokumen.pdf" />
+                  <InputGroup.Append>
+                    <InputGroup className="icon-size">
+                      <Button className="buttonLihat">View</Button>
+                    </InputGroup>
+                  </InputGroup.Append>
+                </div>
+              </a>
+            </Col>
+            <Col md><FaTimesCircle
+              size='1rem'
+              color='red'
+            /></Col>
+          </Form.Row>
+          <br />
+        </div>
+      </section>
+    </main>
+  );
+}
+
+export default UploadX5A;

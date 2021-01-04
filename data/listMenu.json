@@ -1,0 +1,139 @@
+
+  [
+    {
+        "parentMenu": "view", 
+        "label": "View Profile ASN",
+        "items": [
+            {"subMenu":"pns", "label": "Profile PNS", "url":"/tampilanData"}
+        ],
+        "eventKey": 1,
+        "role" : "operator"
+    },
+    {
+        "parentMenu": "peremajaan", 
+        "label": "Layanan Peremajaan",
+        "items": [
+            {"subMenu":"input", "label": "Berkas Usulan", "url":"/layananPeremajaan/berkasUsulan"},
+            {"subMenu": "monUsul", "label":"Monitoring Usulan", "url":"/layananPeremajaan/monitoringUsulan"},
+            {"subMenu": "surUsul", "label":"Surat Usulan", "url":"/layananPeremajaan/suratUsulan"},
+            {"subMenu": "penSK", "label":"Penetapan Surat Keputusan", "url":"/layananPeremajaan"},
+            {"subMenu": "monSK", "label":"Monitoring Surat Keputusan", "url":"/layananPeremajaan"},
+            {"subMenu": "monPen", "label": "Monitoring penetapan", "url":"/layananPeremajaan/monitoringPenetapan"}
+        ],
+        "eventKey": 2,
+        "role" : "operator"
+    },
+    {
+        "parentMenu": "pemberhentian", 
+        "label": "Layanan Pemberhentian",
+        "items": [
+            {"subMenu":"input", "label": "Berkas Usulan", "url":"/layananPemberhentian/berkasUsulan"},
+            {"subMenu": "monUsul", "label":"Monitoring Usulan", "url":"/layananPemberhentian/monitoringUsulan"},
+            {"subMenu": "surUsul", "label":"Surat Usulan", "url":"/layananPemberhentian/suratUsulan"},
+            {"subMenu": "penSK", "label":"Penetapan Surat Keputusan", "url":"/layananPemberhentian/penetapanSK"},
+            {"subMenu": "monSK", "label":"Monitoring Surat Keputusan", "url":"/layananPemberhentian/monitoringSK"},
+            {"subMenu": "monPen", "label": "Monitoring penetapan", "url":"/layananPemberhentian/monitoringPenetapan"}
+        ],
+        "eventKey": 3,
+        "role" : "operator"
+    },
+    {
+        "parentMenu": "pi", 
+        "label": "Layanan Pindah Instansi",
+        "items": [
+            {"subMenu":"input", "label": "Berkas Usulan", "url":"/layananPI/berkasUsulan"},
+            {"subMenu": "monUsul", "label":"Monitoring Usulan", "url":"/layananPI/monitoringUsulan/monitoringUsulan"},
+            {"subMenu": "surUsul", "label":"Surat Usulan", "url":"/layananPI/suratUsulan"},
+            {"subMenu": "penSK", "label":"Penetapan Surat Keputusan", "url":"/layananPI/penetapanSK"},
+            {"subMenu": "monSK", "label":"Monitoring Surat Keputusan", "url":"/layananPI/monitoringSK"},
+            {"subMenu": "monPen", "label": "Monitoring penetapan", "url":"/layananPI/monitoringPenetapan"}
+        ],
+        "eventKey": 4,
+        "role" : "operator"
+    },
+    {
+        "parentMenu": "kp", 
+        "label": "Layanan Kenaikan Pangkat",
+        "eventKey": 5,
+        "items": [
+            {"subMenu":"input", "label": "Berkas Usulan", "url":"/layananKP/berkasUsulan"},
+            {"subMenu": "monUsul", "label":"Monitoring Usulan", "url":"/layananKP/monitoringUsulan"},
+            {"subMenu": "surUsul", "label":"Surat Usulan", "url":"/layananKP/suratUsulan"},
+            {"subMenu": "penSK", "label":"Penetapan Surat Keputusan", "url":"/layananKP/penetapanSK"},
+            {"subMenu": "monSK", "label":"Monitoring Surat Keputusan", "url":"/layananKP/monitoringSK"},
+            {"subMenu": "monPen", "label": "Monitoring penetapan", "url":"/layananKP/monitoringPenetapan"}
+        ],
+        "role" : "operator"
+    },
+    {
+        "parentMenu": "persetujuan", 
+        "label": "Layanan Persetujuan",
+        "eventKey": 6,
+        "items": [ 
+            {"subMenu":"persetSU", "label": "Persetujuan Surat Usulan"},
+            {"subMenu": "monSU", "label": "Monitoring Persetujuan Surat Usulan"}
+        ],
+        "role" : "test"
+    },
+    {
+        "parentMenu": "pertek", 
+        "label": "Layanan Pertek",
+        "eventKey": 7,
+        "items":[
+            {"subMenu":"ttdPertek", "label": "Tanda tangan Pertek"},
+            {"subMenu": "monPertek", "label": "Monitoring Pertek"}
+        ],
+        "role" : "test"
+    },
+    {
+        "parentMenu": "monitoring", 
+        "label": "Layanan Monitoring",
+        "eventKey": 8,
+        "items": [
+            {"subMenu": "monDispatcher", "label": "Monitoring Layanan"}
+        ],
+        "role" : "test"
+    },
+    {
+        "parentMenu": "perencanaan", 
+        "label": "Layanan Perencanaan",
+        "eventKey": 9,
+        "items": [],
+        "role" : "test"
+    },
+    {
+        "parentMenu": "skk", 
+        "label": "Layanan SKK",
+        "eventKey": 10,
+        "items": [],
+        "role" : "test"
+    },
+    {
+        "parentMenu": "manTalenta", 
+        "label": "Layanan Manajemen Talenta",
+        "eventKey": 11,
+        "items": [],
+        "role" : "test"
+    },
+    {
+        "parentMenu": "admin", 
+        "eventKey": 12,
+        "label": "Layanan Administrasi",
+        "items": [],
+        "role" : "test"
+    },
+    {
+        "parentMenu": "wasdal", 
+        "label": "Layanan Wasdal",
+        "eventKey": 13,
+        "items": [],
+        "role" : "test"
+    },
+    {
+        "parentMenu": "bankum", 
+        "label": "Layanan Bankum",
+        "eventKey": 14,
+        "items": [],
+        "role" : "test"
+    }
+]

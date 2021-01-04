@@ -1,0 +1,51 @@
+[
+    {
+        "Nip" : "198609262015051001",
+        "nama" : "Alan Hadi",
+        "jenisPeremajaan" : "Kesehatan",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Lengkap"
+    },
+    {
+        "Nip" : "198609262015051002",
+        "nama" : "Azis Pasha",
+        "jenisPeremajaan" : "PMK",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Lengkap"
+    },
+    {
+        "Nip" : "198609262015051003",
+        "nama" : "Bimo Suryo",
+        "jenisPeremajaan" : "LHKPN",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Tidak Lengkap"
+    },
+    {
+        "Nip" : "198609262015051004",
+        "nama" : "Raka Pratama",
+        "jenisPeremajaan" : "CLTN",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Tidak Lengkap"
+    },
+    {
+        "Nip" : "198609262015051005",
+        "nama" : "Figa Rizfa",
+        "jenisPeremajaan" : "Profesi",
+        "tglPengusulan" : "01/08/2020",
+        "statusUsulan" : "Lengkap"
+    },
+    {
+        "Nip" : "198609262015051011",
+        "nama" : "Ghifari Prameswari",
+        "jenisPeremajaan" : "Golongan/KP",
+        "tglPengusulan" : "22/08/2020",
+        "statusUsulan" : "Tidak Lengkap"
+    },
+    {
+        "Nip" : "198609262015051012",
+        "nama" : "Guruh Ajinugroho",
+        "jenisPeremajaan" : "Profesi",
+        "tglPengusulan" : "11/08/2020",
+        "statusUsulan" : "Lengkap"
+    }
+]

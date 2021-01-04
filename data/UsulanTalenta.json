@@ -1,0 +1,27 @@
+[
+    {
+        "no" : "1",
+        "nip" : "198609262015051001",
+        "nama" : "Alan Hadi",
+        "jenisPengadaan" : "Batas Usia Pensiun"
+    },
+    {
+        "no" : "2",
+        "nip" : "198609262015051002",
+        "nama" : "Azis Pasha",
+        "jenisPengadaan" : "Batas Usia Pensiun"
+        
+    },
+    {
+        "no" : "3",
+        "nip" : "198609262015051003",
+        "nama" : "Bimo Suryo",
+        "jenisPengadaan" : "Kebijakan Pemerintah"
+    },
+    {
+        "no" : "4",
+        "nip" : "198609262015051004",
+        "nama" : "Raka Pratama",
+        "jenisPengadaan" : "Meninggal"
+    }
+]

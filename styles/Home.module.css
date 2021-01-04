@@ -1,0 +1,258 @@
+.sidebar {
+  height: 100vh;
+  width: 0;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.sidebar .row {
+  height: 100%;
+}
+
+.sidebar a {
+  text-decoration: none;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidebar a:hover {
+  text-decoration: none;
+}
+
+.sidebar .closebtn {
+  padding-left: 10px;
+  font-size: 50px;
+  color: #0fa49e;
+  cursor: pointer;
+}
+
+.sidebar .box-left {
+  background-color: #fff;
+}
+
+.sidebar .box-right {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.sidebar .accordion {
+  background-color: #ededed;
+}
+
+.sidebar .btn-link:hover,
+.btn:focus {
+  box-shadow: none;
+}
+
+.sidebar .card-header {
+  padding: 12px 10px;
+  cursor: pointer;
+}
+
+.sidebar .card-header p {
+  margin-bottom: 0;
+  padding: 0 15px;
+}
+
+.sidebar .card-header:hover {
+  background-color: #d1d1d1;
+}
+
+.sidebar .accordion {
+  margin-top: 0.5rem;
+}
+
+.sidebar .accordion button {
+  font-size: 45%;
+  color: #000;
+}
+
+.sidebar .list-group {
+  border: none;
+  border-radius: 0;
+}
+
+.sidebar .list-group p {
+  font-size: 70%;
+  color: #009f98;
+  padding: 0 10px;
+  margin-bottom: 0 !important;
+  cursor: pointer;
+}
+
+.sidebar .list-group-item,
+.sidebar .card {
+  border: none;
+}
+
+.sidebar .list-group-item:hover {
+  background-color: #f8f8f8;
+}
+
+#main {
+  transition: margin-left 0.5s;
+  padding: 16px;
+}
+
+.navbar-brand > img {
+  object-fit: contain;
+}
+
+.dokuDigital {
+  border-bottom: 1px solid #b5d4f6;
+  box-shadow: 0px 3px 6px #000;
+}
+
+.navbarText {
+  color: #009f98 !important;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.img-profile {
+  width: 57px;
+  height: 57px;
+  object-fit: contain;
+  border: 1px solid #000;
+  border-radius: 10px;
+  background-color: #009f98;
+  border: 1px solid #000;
+  line-height: 57px;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.wizard__page-1 {
+  background-color: #fff;
+  margin: 0 60px 32px;
+  -webkit-box-shadow: -5px 4px 4px -3px rgba(0, 0, 0, 0.75),
+    5px 4px 4px -3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -5px 4px 4px -3px rgba(0, 0, 0, 0.75),
+    5px 4px 4px -3px rgba(0, 0, 0, 0.75);
+  box-shadow: -5px 4px 4px -3px rgba(0, 0, 0, 0.75),
+    5px 4px 4px -3px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+}
+
+.wizard__page-1::after {
+  content: "";
+  display: block;
+  width: 20%;
+  border-bottom: 10px solid #2d3c6c;
+  border-radius: 10px;
+}
+
+.wizard__container {
+  padding: 20px 15px 0;
+}
+
+.wizard__row {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+
+.wizard__step-1 > h5 {
+  color: #555555;
+  font-size: 1rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.wizard__step-1 > p {
+  color: #555;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.disabled > h5 {
+  color: #aaa;
+  font-size: 1rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.disabled > p {
+  color: #aaa;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.wizard__choiceComponent {
+  background-color: #fff;
+  margin: 0 60px 32px;
+  border-radius: 10px;
+  overflow: auto;
+}
+
+.wizard__choiceRow {
+  display: flex;
+  padding: 2px;
+}
+
+.wizard__choiceRow > .btn {
+  width: 136px;
+}
+
+.wizard__choiceRow p {
+  font-size: 16px;
+}
+
+.wizard__choiceRow > .btn:hover {
+  background-color: #ececec;
+}
+
+.wizard__choiceRow > .btn:focus {
+  background-color: #2d3c6c;
+  color: #fff;
+  outline: none !important;
+  box-shadow: none;
+}
+
+.wizard__choiceRow > .btn:focus > img {
+  filter: brightness(0) invert(1);
+}
+
+.wizard__showButton {
+  background-color: #fff;
+  margin: 0 60px 32px;
+  border-radius: 10px;
+  padding: 20px 20px 40px;
+}
+
+.wizard__showButton-buttonBox > .btn-before {
+  border: 2px solid #2d3c6c;
+  color: #2d3c6c;
+  margin-right: 16px;
+}
+
+.wizard__showButton-buttonBox > .btn-after {
+  background-color: #2d3c6c;
+  color: #fff;
+}
+
+.wizard__showButton-buttonBox > .btn-after:hover {
+  color: #fff;
+}
+
+/* End MAIN CONTENT  */
+
+/* footer */
+.footer {
+  width: 100%;
+  background-color: #009f98;
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+}
+
+.footer p {
+  font-size: 90%;
+  color: #fff;
+  font-weight: 600;
+}

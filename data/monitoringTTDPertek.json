@@ -1,0 +1,56 @@
+[
+    {
+        "NoSU" : "198609262015051001",
+        "jenisPeremajaan" : "Golongan/KP",
+        "nip" : "197003191997031001",
+        "nama" : "Alan Hadi",
+        "instansi" : "Kementrian Sosial",
+        "provinsi" : "Jawa Barat",
+        "tglPengusulan" : "01/08/2020"
+    },
+    {
+        "NoSU" : "198609262015051002",
+        "jenisPeremajaan" : "Pendidikan",
+        "nip" : "197003191997031002",
+        "nama" : "Azis Pasha",
+        "instansi" : "Kementrian Sosial",
+        "provinsi" : "Jawa Barat",
+        "tglPengusulan" : "01/08/2020"
+    },
+    {
+        "NoSU" : "198609262015051003",
+        "jenisPeremajaan" : "PMK",
+        "nip" : "197003191997031003",
+        "nama" : "Bimo Suryo",
+        "instansi" : "Kementrian Agama",
+        "provinsi" : "Jawa Barat",
+        "tglPengusulan" : "01/08/2020"
+    },
+    {
+        "NoSU" : "198609262015051004",
+        "jenisPeremajaan" : "Pindah Instansi",
+        "nip" : "197003191997031004",
+        "nama" : "Raka Pratama",
+        "instansi" : "Kejaksaan Agung",
+        "provinsi" : "Jawa Barat",
+        "tglPengusulan" : "01/08/2020"
+    },
+    {
+        "NoSU" : "198609262015051005",
+        "jenisPeremajaan" : "Profesi",
+        "nip" : "197003191997031005",
+        "nama" : "Figa Rizfa",
+        "instansi" : "Kementrian Sosial",
+        "provinsi" : "Jawa Barat",
+        "tglPengusulan" : "01/08/2020"
+    },
+    {
+        "NoSU" : "198609262015051011",
+        "jenisPeremajaan" : "Kedudukan Hukum",
+        "nip" : "197003191997031006",
+        "nama" : "Ghifari Prameswari",
+        "instansi" : "Kementrian Sosial",
+        "provinsi" : "Jawa Barat",
+        "tglPengusulan" : "22/08/2020"
+    }
+]
