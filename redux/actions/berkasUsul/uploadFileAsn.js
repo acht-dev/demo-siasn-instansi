@@ -13,11 +13,10 @@ const token = Cookies.get('token');
 export const uploadFileAsn = (bodyData) => async dispatch =>{
   try{
     dispatch({type: UPLOAD_DOKUMEN_PNS_PENDING})
-    const res = await axios.post(`https://cors-anywhere.herokuapp.com/http://202.125.94.151:9393/api/peremajaan/upload-dok`,
+    const res = await axios.post(`http://202.125.94.151:9393/api/peremajaan/upload-dok`,
     bodyData,
     {
       headers:{
-        Authorization: token,
         "Content-Type": "multipart/form-data"
       }
     }

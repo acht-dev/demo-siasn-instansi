@@ -12,7 +12,7 @@ import {
   export const refKP = () => async dispatch =>{
     try{
       dispatch({ type: GET_REF_KP_PENDING })
-      const res = await axios.get('https://cors-anywhere.herokuapp.com/http://202.125.94.151:9595/api/jenis-kp',{
+      const res = await axios.get('http://202.125.94.151:9595/api/jenis-kp',{
         headers:{
           Authorization: token
         }

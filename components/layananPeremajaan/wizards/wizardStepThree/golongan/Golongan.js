@@ -85,9 +85,9 @@ export default function Golongan(props) {
     <>
       <div className='mb-3'>
         <ToastContainer autoClose={2000} />
-        <Row>
+        {/* <Row>
           <Tables data={getGolongan.Value}/>
-        </Row>
+        </Row> */}
         <Row>
           <Col>
             <Tabs defaultActiveKey='editdata' id='uncontrolled-tab-example'>

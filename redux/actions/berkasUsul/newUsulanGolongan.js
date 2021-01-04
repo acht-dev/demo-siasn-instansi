@@ -14,9 +14,8 @@ export const newUsulanGolongan = (dataUsul) => async dispatch =>{
   try{
     console.log(JSON.stringify(dataUsul))
     dispatch({ type: POST_USULAN_NEW_PENDING })
-    const res = await axios.post('https://cors-anywhere.herokuapp.com/http://202.125.94.151:9393/api/peremajaan/golongan/update-data', dataUsul ,{
+    const res = await axios.post('http://202.125.94.151:9393/api/peremajaan/golongan/update-data', dataUsul ,{
       headers:{
-        Authorization: token,
         'Content-Type': 'multipart/form-data'
       }
     })
